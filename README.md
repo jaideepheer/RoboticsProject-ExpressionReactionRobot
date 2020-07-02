@@ -7,6 +7,8 @@ The client code runs on a Raspberry Pi which communicates to the server over the
 
 See the [./presentation/](./presentation/) folder.
 
+Video presentation: [./presentation/emo_robo_video.mp4](./presentation/emo_robo_video.mp4)
+
 ![Main](./presentation/main.png)
 
 ### Angry
