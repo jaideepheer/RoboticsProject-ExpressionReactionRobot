@@ -6,6 +6,7 @@ The client code runs on a Raspberry Pi which communicates to the server over the
 # Program Output
 
 See the [./presentation/](./presentation/) folder.
+
 ![Main](./presentation/main.png)
 
 ### Angry
